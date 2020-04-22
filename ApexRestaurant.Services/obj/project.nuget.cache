@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1o4gnv/6G5M/MhE2yrMZyC7alwjZbQjlS2YKIYIaOWLNCYx1crH5/em22howBtUpt9J4Emt0t+Hvs98S4etqrg==",
+  "success": true,
+  "projectFilePath": "E:\\ApexRestaurant\\ApexRestaurant.Services\\ApexRestaurant.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
