@@ -1,6 +1,9 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+
 namespace ApexRestaurant.Repository.Domain{
     public class Meal{
+        [Key]
         public int Meal_Id { get; set; }    
         public int Customer_Id { get; set; }
         public int Staff_id { get; set; }
